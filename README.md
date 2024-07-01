@@ -1,0 +1,1 @@
+# This repository only includes the coding used for thesis, as well as the narrative perspective information of 30 books. Unfortunately, the other data utilized in this study cannot be shared due to ethical considerations.
