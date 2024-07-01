@@ -1,0 +1,31 @@
+File_ Name ,Text_ID,Book,Narrative_Perspective,Mental_Imagery,Emotional_Engagement,REC_CONTENT
+R1,T1,1984,T,N,Y,Y
+R2,T7,The Book of Disquiet,F,N,N,N
+R2,T8,Gitanjali,F,N,N,N
+R3,T12,In Cold Blood,T,Y,Y,Y
+R3,T13,Seven Thousand Days in Siberia,F,N,Y,Y
+R5,T21,The Lord of the Rings,T,N,N,Y
+R5,T22,The Little Prince,F,Y,N,Y
+R6,T23,The Beach,F,N,Y,Y
+R7,T27,Doctor Faustus,T,N,Y,Y
+R7,T28,The Name of the Rose,F,N,Y,Y
+R8,T33,The Stranger,F,N,Y,Y
+R75,T44,My Brilliant Friend,F,N,N,Y
+R79,T344,Trouble at Timpetill,F,Y,Y,Y
+R81,T348,The Hound of the Baskervilles,F,N,Y,N
+R81,T349,A Bear Called Paddington,T,Y,N,Y
+R91,T379,The Black Cat,F,N,Y,Y
+R91,T308,The Sorrows of Young Werther,T,N,Y,Y
+R92,T225,War and Peace,T,N,N,Y
+R92,T381,The Red and the Black,T,N,N,N
+R93,T383,Journey to the Center of the Earth,F,N,Y,Y
+R94,T386,In the Shadow of Young Girls in Flower,F,N,Y,Y
+R94,T387,The Snowman,T,N,Y,N
+R104,T297,Voices from Chernobyl,F,N,Y,Y
+R106,T376,Harry Potter,T,Y,Y,Y
+R106,T75,Crime and Punishment,T,N,Y,N
+R106,T426,The Polyglot Lovers,F,Y,Y,Y
+R107,T35,One Hundred Years of Solitude,T,N,Y,N
+R107,T428,Last One at the Party,F,N,N,N
+R108,T46,Dune,T,N,Y,Y
+R108,T131,Hyperion,T,N,Y,Y
